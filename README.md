@@ -16,7 +16,7 @@
 -    API RESTful, CRUD API
 -    Oracle, PL/SQL, SQL Server, MySQL, MongoDB.
 -    DDL Sentences (Definition), DML Sentences (Manipulation).
-
+-    Maps JavaScript API, Google chart, etc.
 
 This's my web Site.
 # [https://acertijo.dev](https://www.acertijo.dev/)
