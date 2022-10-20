@@ -1,13 +1,8 @@
 # Hey! I'm Jeff 👋
 
-# [acertijo.dev](https://www.acertijo.dev/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Repo personal jjmirandaa86
-
-# [acertijo.dev](https://www.acertijo.dev/)
-
-- 👋 Hi, 
--    I am Jeff Miranda, I am a develeper Software. I like a lot of language of programation, I prefer open source. Profesional en Software Full Stack
+-    I am a develeper Software. I like a lot of language of programation, I prefer open source. Profesional en Software Full Stack
 - 👀 I’m interested in to learn
 
 - If you want that I help you, You only tell meit. Good luck
