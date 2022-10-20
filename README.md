@@ -10,7 +10,7 @@
 
 ### Skills 📌
 -    HTML, CSS
--    Javascript, reactJS, Node, Axios, Redux, React Bootstrap.
+-    Javascript, ReactJS, Node, Express, Axios, Redux, React Bootstrap.
 -    PHP, Laravel
 -    Apache, JBOSS, JAVA
 -    API RESTful, CRUD API
