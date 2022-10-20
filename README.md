@@ -12,7 +12,7 @@
 -    HTML, CSS
 -    Javascript, ReactJS, Node, Express, Axios, Redux, React Bootstrap.
 -    PHP, Laravel
--    Apache, JBOSS, JAVA
+-    Apache, JBOSS, JAVA, NPM
 -    API RESTful, CRUD API
 -    Oracle, PL/SQL, SQL Server, MySQL, MongoDB.
 -    DDL Sentences (Definition), DML Sentences (Manipulation).
