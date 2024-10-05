@@ -1,7 +1,7 @@
 # Hey! I'm Jeff 👋
 
 
--    I live in Sydney. 🇪🇨
+-    I live in Sydney 🇦🇺.
 -    I'm a develeper Software. I prefer open source tecnology 😜
 -    I had worked in front-end, back-end. 
 -    🔭 I’m currently working ❤️ on **primary fleet supply validation process** (ReactJS, NodeJs, Redux, Axios) 🌐
