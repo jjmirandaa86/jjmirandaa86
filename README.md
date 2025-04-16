@@ -2,9 +2,8 @@
 
 
 -    I live in Sydney 🇦🇺.
--    I'm a develeper Software. I prefer open source tecnology 😜
+-    I'm a Full Stack developer 😜
 -    I had worked in front-end, back-end. 
--    🔭 I’m currently working ❤️ on **primary fleet supply validation process** (ReactJS, NodeJs, Redux, Axios) 🌐
 -    I'm interested in to learn 👀, I’m currently learning **English, Kubernetes.** 🌱
 
 
